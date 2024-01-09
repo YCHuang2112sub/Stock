@@ -1,1 +1,1 @@
-<img src="neuron_fig1.svg"/>
+<img src="test.svg"/>
